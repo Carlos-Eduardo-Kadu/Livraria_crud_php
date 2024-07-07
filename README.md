@@ -15,3 +15,9 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) simples para uma livra
 - PHP 5.6 ou superior
 - Servidor web (ex: Apache)
 - Banco de dados MySQL
+
+## tecnologias
+- PHP
+- jQuery
+- Bootstrap
+- MySQL
